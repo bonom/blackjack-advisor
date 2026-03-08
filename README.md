@@ -1,7 +1,5 @@
 # Blackjack Advisor
 
-=========
-
 A modern, responsive Blackjack Advisor and Expected Value (EV) calculator built with Next.js and React.
 
 ## Purpose
